@@ -1,0 +1,13 @@
+name: shinyDnd
+title: shinyDnd
+username:
+account: davidchabra
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 4526761
+bundleId: 4956097
+url: https://davidchabra.shinyapps.io/shinyDnd/
+when: 1629769879.31868
+lastSyncTime: 1629769879.31869
+asMultiple: FALSE
+asStatic: FALSE
